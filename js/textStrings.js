@@ -30,7 +30,7 @@ var textStrings_ZH_CN = {
 	"squaresHateCircles": "[方形] 讨厌 (圆形)",
 	"circlesHateSquares": "(圆形) 讨厌 [方形]",
 	"areTheyYelling": "(你得抓拍他们对着别人 *大吼大叫*)", // not used
-	"nerdsNow": "这些书呆子现在在干啥？",
+	"nerdsNow": "这些呆子现在在干啥？",
 	"schockedPeep": "为什么这个人感到惊吓？",
 	"whatever": "无所谓",
 
@@ -94,8 +94,8 @@ var textStrings_ZH_CN = {
 	"toBeContinued": "(to be continued!)",
 
 	// (quote0002.png)
-	"WBWWB": "我们成为我们所见之人。",
-	"WSOTATOTSU": "我们塑造我们的工具，然后工具再塑造我们。",
+	"WBWWB": "我们成为我们所见之人",
+	"WSOTATOTSU": "我们塑造我们的工具，然后工具再塑造我们",
 
 	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",

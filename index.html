@@ -1,27 +1,27 @@
 ﻿<html>
-	<head>
-		<link rel="stylesheet" href="css/game.css">
-	</head>
-	<body>
-		<div id="stage"></div>
-		<div id="modal_shade"></div>
-		<div class="overlay" id="warning">
-			<div dir="rtl">ای بابا!</div>
-			<div dir="rtl">
-			your browser doesn't support webgl.<br>
-			try a different browser or computer?<br>
-				<br>
-				مرورگر شما مرخص است! از یه مرورگر و یا کامپیوتر دیگه استفاده کنید!
-			</div>
+
+<head>
+	<link rel="stylesheet" href="css/game.css">
+</head>
+
+<body>
+	<div id="stage"></div>
+	<div id="modal_shade"></div>
+	<div class="overlay" id="warning">
+		<div>哦不</div>
+		<div>
+			你的浏览器不支持 WebGL。<br>
+			尝试其他的浏览器或计算机？
 		</div>
-		<div class="overlay" id="paused">
-			<div>paused</div>
-			<div dir="rtl">
-			click anywhere to resume<br>
-				برای بازگشت رو یه جا رو کلیک کن!
-			</div>
+	</div>
+	<div class="overlay" id="paused">
+		<div>暂停</div>
+		<div>
+			单击任意位置继续
 		</div>
-	</body>
+	</div>
+</body>
+
 </html>
 
 <!-- External Libraries -->
@@ -30,7 +30,7 @@
 <script src="js/lib/stats.min.js"></script>
 <script>var createjs = window;</script>
 <script src="js/lib/tweenjs-0.6.2.min.js"></script>
-<script>Ticker.framerate=60; Ticker.paused=true;</script>
+<script>Ticker.framerate = 60; Ticker.paused = true;</script>
 <script src="js/lib/helpers.js"></script>
 
 <!-- Text Strings -->
@@ -90,15 +90,15 @@
 
 <!-- Game Scripts -->
 <script>
-Game.stats = false;
-window.onload = function(){
-	try{
-		Game.init();
-		//Game.init("Game");
-	}catch(e){
-		document.getElementById("warning").style.display = "block";
-	}
-};
-window.SHARE_TEXT = ''
-window.SHARE_URL = "";
+	Game.stats = false;
+	window.onload = function () {
+		try {
+			Game.init();
+			//Game.init("Game");
+		} catch (e) {
+			document.getElementById("warning").style.display = "block";
+		}
+	};
+	window.SHARE_TEXT = ''
+	window.SHARE_URL = "";
 </script>
