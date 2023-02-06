@@ -1,8 +1,14 @@
-![banner](https://github.com/AFZL95/wbwwb/blob/WBWWB-FA/Persian-CoverImage.png)
+## 如何运行此游戏？
+
+您需要一个Web Server，可以用VSCode的[Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)插件，或使用[servez](https://www.npmjs.com/package/servez)。
+
+---
+
+![](./Persian-CoverImage.png)
 
 *a game about news cycles, vicious cycles, infinite cycles*
 
-**[PLAY Persian)](https://alexclay.itch.io/)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
+**[PLAY (Persian)](https://alexclay.itch.io/)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
 
 ---
 
