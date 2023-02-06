@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Cairo';
+	font-family: 'MiSans';
 	font-style: normal;
 	font-weight: 400;
 	src: url('Cairo-Regular.ttf') format('truetype');
@@ -10,7 +10,7 @@ html, body{
 	height: 100%;
 }
 body{
-	font-family: 'Cairo';
+	font-family: 'MiSans';
 	margin: 0;
 	background: #222;
 	position:relative;
