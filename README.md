@@ -2,6 +2,8 @@
 
 您需要一个Web Server，可以用VSCode的[Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)插件，或使用[servez](https://www.npmjs.com/package/servez)。
 
+您还可以下载我打包的Electron版本，它的项目地址是：[Direct5dom/wbwwb_zh-CN_Electron](https://github.com/Direct5dom/wbwwb_zh-CN_Electron)
+
 ---
 
 ![](./Persian-CoverImage.png)
