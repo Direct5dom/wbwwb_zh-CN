@@ -54,7 +54,7 @@ var textStrings_ZH_CN = {
 
 	// (bg_preload.png) Preload screen
 	"playingTime": "游戏时间约 5 分钟",
-	"warning": "警告：游戏包含了\n势利、粗鲁和暴力血腥的场景，\n请玩家谨慎体验。",
+	"warning": "警告：游戏包含了\n势利、粗鲁和暴力血腥的场景，\n请玩家谨慎体验。\n作者：Nicky Case\n翻译：SI Xiaolong/Direct5dom",
 
 	// (cam-instructions.png) Camera Instructions
 	"pointAndClick": "对准 & 点击",
